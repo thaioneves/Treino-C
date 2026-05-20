@@ -7,7 +7,7 @@ const cliente1 = {
     Senha: "kaka2404alb"
 };
 
-const cliente2{};
+const cliente2 = {};
 cliente2.Nome = prompt("Qual o nome que deve ser registrado?")
 cliente2.CPF = prompt("Qual o CPF?")
 cliente2.Idade = Number(prompt("Qual a idade?"))
