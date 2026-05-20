@@ -25,7 +25,7 @@ alert("Perfis do 1º cliente a frente./n"+
     "Nickname do clinte:" + cliente1.nickname +"/n" +
     "Senha do cliente:" + cliente1.senha +"/n" +
     
-    "/n Perfis do 2º cliente a frente./n"+
+    "/n" + "Perfis do 2º cliente a frente./n"+
     "Login do cliente:" + cliente2.nome +"/n" +
     "Idade do cliente:" + cliente2.idade +"/n" +
     "CPF do cliente:" + cliente2.cpf +"/n" +
