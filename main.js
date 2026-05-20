@@ -18,17 +18,17 @@ cliente2.Senha = prompt("Qual a senha?")
 alert("Tudo certo, obrigado!")
 
 alert("Perfis do 1º cliente a frente./n"+
-    "Login do cliente:" + cliente1.nome + "/n" +
-    "Idade do cliente:" + cliente1.idade + "/n" +
-    "CPF do cliente:" + cliente1.cpf +"/n" +
-    "Telefone do cliente:" + cliente1.telefone +"/n" +
-    "Nickname do clinte:" + cliente1.nickname +"/n" +
-    "Senha do cliente:" + cliente1.senha +"/n" +
+    "Login do cliente:" + cliente1.Nome + "/n" +
+    "Idade do cliente:" + cliente1.Idade + "/n" +
+    "CPF do cliente:" + cliente1.CPF +"/n" +
+    "Telefone do cliente:" + cliente1.Telefone +"/n" +
+    "Nickname do clinte:" + cliente1.Nickname +"/n" +
+    "Senha do cliente:" + cliente1.Senha +"/n" +
     
     "/n" + "Perfis do 2º cliente a frente./n"+
-    "Login do cliente:" + cliente2.nome +"/n" +
-    "Idade do cliente:" + cliente2.idade +"/n" +
-    "CPF do cliente:" + cliente2.cpf +"/n" +
-    "Telefone do cliente:" + cliente2.telefone +"/n" +
-    "Nickname do clinte:" + cliente2.nickname +"/n" +
-    "Senha do cliente:" + cliente2.senha +"/n")
+    "Login do cliente:" + cliente2.Nome +"/n" +
+    "Idade do cliente:" + cliente2.Idade +"/n" +
+    "CPF do cliente:" + cliente2.CPF +"/n" +
+    "Telefone do cliente:" + cliente2.Telefone +"/n" +
+    "Nickname do clinte:" + cliente2.Nickname +"/n" +
+    "Senha do cliente:" + cliente2.Senha)
